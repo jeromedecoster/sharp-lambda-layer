@@ -2,10 +2,9 @@
 
 Generate a Node.js Lambda Layer with [Sharp](https://github.com/lovell/sharp)
 
-| Content | Version |
+| Sharp | Built for Node.js |
 | :-- | :-- |
-| Node.js | LTS |
-| Sharp | latest |
+| Latest | LTS |
 
 ### Build
 

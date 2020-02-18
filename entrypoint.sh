@@ -50,4 +50,4 @@ useradd $HOST_USER
 chown $HOST_USER:$HOST_USER $ZIP
 mv $ZIP /var/task/
 
-
+log created $ZIP
